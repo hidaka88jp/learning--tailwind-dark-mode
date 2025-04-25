@@ -6,9 +6,9 @@ A simple project to learn and implement dark mode in Tailwind CSS.
 - Dark mode toggle using class-based approach
 
 ## Screenshots
-<img src="./screenshots/light-mode.png" width="50%">
-<img src="./screenshots/dark-mode.png" width="50%">
+![Light Mode Screenshot](./screenshots/light-mode.png)
+![Dark Mode Screenshot](./screenshots/dark-mode.png)
 
 ## What I Learned
 - How to implement dark mode in Tailwind
-- Working with React useEffect for DOM manipulation# learning--tailwind-dark-mode
+- Working with React useEffect for DOM manipulation
